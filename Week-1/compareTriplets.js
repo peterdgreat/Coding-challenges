@@ -9,7 +9,7 @@ for(let i=0; i<3; i++){
     }
     else if (a[i]< b[i]){
         bob++;
-    }
+    }git
 }
 rate.push(ali,bob);
 return rate;
