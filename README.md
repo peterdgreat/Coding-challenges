@@ -3,6 +3,6 @@ This will be a collection of coding challenges I practice weekly. I will be usin
 
 ## Week 1
 1. Compare the Triplets on Hackerank : https://www.hackerrank.com/challenges/compare-the-triplets/problem
-2. Username Validation On Codeland  :https://coderbyte.com/editor/Codeland%20Username%20Validation:JavaScript
-
+2. Username Validation On Coderbyte  :https://coderbyte.com/editor/Codeland%20Username%20Validation:JavaScript
+3. Find intesersection on Coderbye : https://coderbyte.com/editor/Find%20Intersection:JavaScript
    
