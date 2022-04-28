@@ -12,3 +12,4 @@ This will be a collection of coding challenges I practice weekly. I will be usin
 
 1. Birthday Cake on Hackerank : https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 2. Time Conversion on Hackerank : https://www.hackerrank.com/challenges/time-conversion/problem
+3. Grading Students on Hackerank : https://www.hackerrank.com/challenges/grading/problem
